@@ -15,7 +15,7 @@ Esta norma se aplica al diseño, montaje y a las verificaciones de las instalaci
 a) Edificios residenciales (viviendas unifamiliares o viviendas multifamiliares)
 b) Edificios comerciales
 c) Centros de abastecimiento (mercados públicos, municipales o privados)
-d) — Establecimientos públicos
+d) Establecimientos públicos
 e) Establecimientos industriales
 f) Establecimientos agrícolas;
 g) Edificios prefabricados;

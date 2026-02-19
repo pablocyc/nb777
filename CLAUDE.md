@@ -2,6 +2,18 @@
 
 Realizar un script sencillo para transcribir el texto de las imágenes que iré subiendo. El proyecto consiste en transcribir todo un libro
 
+## Instalación rápida
+
+```bash
+# Después de clonar el repositorio:
+./install.sh
+```
+
+O manualmente en Ubuntu/Debian/WSL2:
+```bash
+sudo apt install tesseract-ocr tesseract-ocr-spa tesseract-ocr-eng
+```
+
 ## Estado actual: ✅ Proyecto reorganizado y listo para Astro
 
 ### Estructura del proyecto:
@@ -37,7 +49,9 @@ Realizar un script sencillo para transcribir el texto de las imágenes que iré 
 │   ├── 09-tableros/
 │   ├── anexos/
 │   └── temp/           - Imágenes temporales
-└── 📁 temp/            - Transcripciones pendientes
+├── 📁 temp/            - Transcripciones pendientes
+├── install.sh          - Instalador de dependencias
+└── README.md           - Documentación del proyecto
 ```
 
 ## Flujo de trabajo optimizado
@@ -58,8 +72,8 @@ Realizar un script sencillo para transcribir el texto de las imágenes que iré 
 - ✅ **Índice**: `docs/00-introduccion/index.md`
 - ✅ **Imágenes índice**: `00-indice-parte1.png`, `00-indice-parte2.png`
 
-## Dependencias instaladas:
-- Tesseract OCR con soporte para español e inglés
+## Dependencias:
+- Tesseract OCR con soporte para español e inglés (instalar con `./install.sh`)
 
 ## Ventajas de la nueva estructura:
 - ✅ **100% compatible con Astro Starlight** desde el inicio

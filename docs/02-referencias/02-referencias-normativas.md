@@ -42,24 +42,3 @@ NB/NM 60884-1 — Sistema de enchufes y tomas de salida para hogares y fines sim
 NB/IEC 60309-1 Tomas de corriente para usos industriales.
 
 IEC 60669-1 Interruptores para instalaciones eléctricas fijas, domésticas y análogas Parte 1: Requisitos generales.
-
-3 DEFINICIONES Y TERMINOLOGÍA
-
-Para los propósitos de este documento se aplican los términos y definiciones de la norma NB 148004 y los siguientes:
-
-3.1 Acometida
-
-Conductores y accesorios que conectan cualquier punto de la red de distribución con el punto de suministro o instalación del consumidor.
-
-3.2 Accesorios
-
-Material complementario utilizado en instalaciones eléctricas, cuyo fin principal es cumplir funciones de índole más bien mecánicas que eléctricas.
-
-3.3 Aislación principal o básica
-
-Aislación aplicada a las partes activas necesaria para asegurar la protección principal o básica
-contra choques eléctricos.
-
-3.4 Aislación suplementaria
-
-Aislación independiente prevista, además de la aislación básica, con el objeto de asegurar la protección contra choques eléctricos en caso de falla de aislación básica.
