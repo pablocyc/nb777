@@ -1,7 +1,7 @@
 ---
 seccion: 04
 titulo: "Documentos del Proyecto"
-pagina: 1
+paginas: 2
 imagen: "04-documentos-del-proyecto.png"
 fecha: 2026-02-19 20:49:47
 ---
@@ -15,6 +15,10 @@ a) Memoria técnica, en la que se expondrán las necesidades que se deben satisf
 b) Planos, de conjunto y de detalle, necesarios para que la obra quede definida.
 
 c) Pliego de especificaciones técnicas, donde se hará la descripción de los elementos eléctricos que intervienen en la obra y se regulará su ejecución y utilización.
+
+<!-- página 1 -->
+
+
 
 d) Pliego de especificaciones administrativas, que se redactara de acuerdo con las características particulares de cada obra.
 

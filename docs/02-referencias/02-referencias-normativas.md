@@ -1,7 +1,7 @@
 ---
 seccion: 02
 titulo: "Referencias Normativas"
-pagina: 1
+paginas: 2
 imagen: "02-referencias-normativas.png"
 fecha: 2026-02-18 21:58:01
 ---
@@ -10,6 +10,10 @@ fecha: 2026-02-18 21:58:01
 2 REFERENCIAS NORMATIVAS
 
 Los siguientes documentos están referenciados en el texto, de forma tal que parte o todo su contenido se constituye en requisito de este documento. Para referencias con fecha, aplica sólo la edición citada. Para referencias sin fecha, aplica la última edición del documento referenciado (incluyendo cualquier modificación de éste)
+
+<!-- página 1 -->
+
+
 
 NB 777-2 Diseño y construcción de instalaciones eléctricas interiores en baja tensión — Parte 2: Protecciones en instalaciones eléctricas en baja
 tension.
@@ -42,3 +46,5 @@ NB/NM 60884-1 — Sistema de enchufes y tomas de salida para hogares y fines sim
 NB/IEC 60309-1 Tomas de corriente para usos industriales.
 
 IEC 60669-1 Interruptores para instalaciones eléctricas fijas, domésticas y análogas Parte 1: Requisitos generales.
+
+<!-- página 2 -->

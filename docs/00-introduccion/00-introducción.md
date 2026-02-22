@@ -1,7 +1,7 @@
 ---
 seccion: 00
 titulo: "Introducción"
-pagina: 1
+paginas: 1
 imagen: "01-introducción.png"
 fecha: 2026-02-18 21:14:54
 ---

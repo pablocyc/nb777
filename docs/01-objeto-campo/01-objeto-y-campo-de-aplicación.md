@@ -1,7 +1,7 @@
 ---
 seccion: 01
 titulo: "Objeto y Campo de Aplicación"
-pagina: 1
+paginas: 1
 imagen: "01-objeto-y-campo-de-aplicación.png"
 fecha: 2026-02-18 21:24:49
 ---

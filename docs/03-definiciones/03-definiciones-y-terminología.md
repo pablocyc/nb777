@@ -1,7 +1,7 @@
 ---
 seccion: 03
 titulo: "Definiciones y Terminología"
-pagina: 1
+paginas: 16
 imagen: "03-definiciones-y-terminología.png"
 fecha: 2026-02-19 16:46:45
 ---
@@ -23,6 +23,10 @@ contra choques eléctricos.
 
 3.4 Aislación suplementaria
 Aislación independiente prevista, además de la aislación básica, con el objeto de asegurar la protección contra choques eléctricos en caso de falla de aislación básica.
+
+<!-- página 1 -->
+
+
 
 3.5 Aislación doble
 Aislación que comprende, a la vez, la aislación básica y la aislación suplementaria.
@@ -55,6 +59,10 @@ Conductor metálico rígido, de sección apropiada a la intensidad de corriente,
 
 3.14 Barrera
 Elemento que asegura protección contra contactos indirectos en todas las direcciones de acceso.
+
+<!-- página 2 -->
+
+
 
 3.15 Borne
 Parte conductora, destinada a una conexión eléctrica, la misma que tendrá diferentes características de fijación mecánica.
@@ -94,6 +102,10 @@ e) Canalización para un sistema de cómputos o para la red de computación: can
 3.20 Canalización a la vista
 Canalizaciones que son observadas a simple vista.
 
+<!-- página 3 -->
+
+
+
 3.21 Canalización empotrada o embutida
 Canalizaciones colocadas en perforaciones o calados hechos en muros, losas y tabiques de una construcción, recubiertas por las terminaciones o enlucidos de estos.
 
@@ -123,6 +135,10 @@ Alambre o cable destinado a conducir la corriente eléctrica. Puede ser desnudo,
 
 3.30 Conductor activo
 Conductor destinado al transporte de energía eléctrica. Se aplica esta calificación a los conductores de fase y neutro de un sistema de corriente alterna o a los conductores positivo, negativo de sistemas de corriente continua.
+
+<!-- página 4 -->
+
+
 
 3.31 Conductor aislado
 Conductor en el cual su superficie está protegida de los contactos directos mediante una cubierta compuesta de una o más capas concéntricas de material aislante
@@ -157,6 +173,10 @@ Conductor de protección que asegura la conexión equipotencial.
 3.38 Conector
 Dispositivo destinado a establecer una conexión eléctrica entre dos (2) o más conductores por
 
+<!-- página 5 -->
+
+
+
 3.39 Conexión equipotencial
 Conexión que coloca masas y elementos conductores ajenos a la instalación eléctrica, a un mismo potencial.
 
@@ -187,6 +207,10 @@ Sobrecorriente causada por contacto directo de impedancia despreciable entre dos
 
 3.48 Corriente diferencial-residual
 Valor eficaz de la suma de los valores instantáneos de la corriente que recorre todos los conductores activos de un circuito en un punto de la instalación.
+
+<!-- página 6 -->
+
+
 
 3.49 Corriente de falla
 Corriente resultante de un defecto de la aislación
@@ -219,6 +243,11 @@ Elemento que no forma parte de la instalación eléctrica pero que ante algún d
 
 - elementos metálicos utilizados en la construcción de un edificio.
 - tuberías metálicas de gas, agua, calefacción y los aparatos que se encuentran conectados a ellas (radiadores, lavaplatos, etc.)
+
+<!-- página 7 -->
+
+
+
 — pisos y paredes no aislados.
 
 3.58 Envolvente (carcasa)
@@ -248,6 +277,10 @@ Relación entre la potencia total instalada en la fuente y la potencia total ins
 3.66 Factor de reserva
 Relación entre la potencia total instalada (en la fuente) y la demanda máxima. Es la relación inversa del factor de utilización. Es válido en un determinado punto y período de tiempo.
 
+<!-- página 8 -->
+
+
+
 3.67 Factor de responsabilidad en la demanda maxima
 Se define como la relación entre la demanda de una carga en el momento de la demanda máxima del sistema y la demanda máxima de esta carga. Es válido en un determinado punto y período de tiempo. La relación inversa de este factor es llamado factor de participación en la demanda máxima.
 
@@ -275,6 +308,10 @@ Parte de la iluminación de emergencia destinado a garantizar la seguridad de la
 
 3.75 Iluminación de zonas de trabajo riesgoso
 Iluminación destinada a permitir la ejecución de los procedimientos de detención o control de estos trabajos, garantizando la seguridad de estas personas que los desarrollan o que se encuentran en la zona.
+
+<!-- página 9 -->
+
+
 
 3.76 Impedancia
 Es el nombre que se le da a la oposición total de un circuito o parte del mismo, al paso de la corriente eléctrica alterna, debido a los efectos combinados de la resistencia, inductancia y capacidad, características del circuito.
@@ -310,6 +347,50 @@ Son instalaciones que tienen una duración limitada. Estas pueden ser instalacio
 - semipermanentes
 - de construcción de obras
 
+<!-- página 10 -->
+
+
+
+3.83 Interruptor
+
+Elemento de una instalación, destinado a conectar o desconectar un circuito y/o su respectiva carga, ya sea en vació o con carga. Su capacidad nominal se fijará en función de su tensión nominal y de las corrientes nominales de carga y/o de interrupción.
+
+3.84 Interruptor automático
+
+Dispositivo de protección y maniobra cuya función es desconectar automáticamente una instalación o parte de ella, por la acción de un elemento bimetálico y/o elemento electromagnético, cuando la corriente que circula por él, exceda un valor pre-establecido en un tiempo dado. Se define por el número de polos, tensión nominal, corriente nominal permanente y corriente nominal de apertura en kA simétricos y eventualmente el tipo de chasis, montaje o instalación.
+
+3.85 Interruptor automático extraíble
+
+Interruptor automático que, además de sus contactos de interrupción, posee un juego de contactos de seccionamiento que le permite, en posición extraída ser desconectado del circuito principal con una distancia de seccionamiento según prescripciones especificadas.
+
+3.86 Interruptor diferencial
+
+Dispositivo de protección cuya función es desconectar automáticamente una instalación cuando la corriente diferencial alcanza un valor dado.
+
+3.87 Línea de tierra
+
+Conductor que une el electrodo de tierra con un punto de la instalación eléctrica que se quiere poner a tierra.
+
+3.88 Luminaria
+
+Aparato que está destinado al montaje de una o varias lámparas y sus accesorios cuya función es dirigir controlar, filtrar y transmitir el flujo luminoso.
+
+3.89 Material eléctrico
+
+Todos los materiales utilizados para la producción, distribución, transformación y utilización de la energía eléctrica, tales como máquinas, transformadores, aparatos, instrumentos, dispositivos de protección conductores, etc.
+
+3.90 Masa
+
+Parte conductora de un equipo o material eléctrico, aislada respecto a los conductores activos, pero que en condiciones de falla puede quedar sometida a tensión.
+
+3.91 Moldura
+
+Ducto generalmente de material plástico o metálico utilizado en canalizaciones a la vista.
+
+<!-- página 11 -->
+
+
+
 3.92 Muy baja tensión
 Son aquellos niveles de voltaje que corresponden a valores menores de 50 V en corriente alterna y en corriente continua, a valores menores de 75 V.
 
@@ -343,6 +424,10 @@ Personal que está capacitado en el montaje y operación de equipos e instalacio
 3.99 Poder asignado de cierre en cortocircuito
 El poder asignado de cierre en cortocircuito de un interruptor automático, es el valor del poder de cierre en cortocircuito fijado para ese interruptor automático por el fabricante para la tensión establecida de empleo, a la frecuencia asignada y para un factor de potencia especificado en corriente alterna, o una constante de tiempo especificada en corriente continua. Se expresa por el valor máximo de cresta de la intensidad prevista. Un poder asignado de cierre implica que el interruptor automático es capaz de establecer la intensidad correspondiente a ese poder asignado para una tensión aplicada adecuada a la tensión establecida de empleo.
 
+<!-- página 12 -->
+
+
+
 3.100 Poder asignado de corte de servicio en cortocircuito
 El poder asignado de corte de servicio en cortocircuito de un interruptor automático, es el valor de poder de corte de servicio en cortocircuito fijado por el fabricante para ese interruptor automático para la tensión asignada de empleo correspondiente.
 
@@ -368,8 +453,11 @@ Es la suma de las potencias nominales de los equipos o puntos conectados a un ci
 Es la suma de las potencias nominales de los equipos destinados a satisfacer una demanda, es válida en un determinado punto y período de tiempo
 
 3.108 Potencial de tierra
-Es el potencial de referencia que la tierra mantiene en ausencia de influencias eléctricas
-internas.
+Es el potencial de referencia que la tierra mantiene en ausencia de influencias eléctricas internas.
+
+<!-- página 13 -->
+
+
 
 3.109 Predio
 Superficie de terreno delimitada por la colindancia con terrenos vecinos o vías públicas.
@@ -396,7 +484,11 @@ Funcionamiento coordinado de dispositivos de protección conectados en serie (in
 Selectividad en el caso de una sobreintensidad en la cual, en presencia de dos dispositivos de protección de máxima intensidad, colocados en serie, el dispositivo de protección aguas abajo asegura la protección hasta un nivel dado de sobreintensidad sin provocar el funcionamiento del otro dispositivo de protección.
 
 3.117 Selectividad total
-Selectividad en el caso de una sobreintensidad en la cual la presencia de dos dispositivos de
+Selectividad en el caso de una sobreintensidad en la cual la presencia de dos dispositivos de protección de máxima intensidad, colocados en serie, el dispositivo de protección aguas abajo asegura la protección sin provocar el funcionamiento del otro dispositivo de protección.
+
+<!-- página 14 -->
+
+
 
 3.118 Servicio ininterrumpido
 Servicio sin intervalo de descanso en los cuales los contactos principales se mantienen cerrados, sin interrupción, siendo recorridos por una intensidad constante durante periodos superiores a 8 h (semanas, meses o incluso años).
@@ -425,6 +517,10 @@ La mayor tensión de contacto susceptible de aparecer en la eventualidad de una 
 3.126 Tensión de contacto convencional limite
 Valor máximo de la tensión de contacto que es permitida, para ser mantenida indefinidamente, en condiciones especificadas de influencias externas.
 
+<!-- página 15 -->
+
+
+
 3.127 Tensión nominal
 Valor convencional de la tensión con la que se denomina un sistema o instalación y para los que ha sido previsto su funcionamiento y aislamiento.
 
@@ -447,3 +543,5 @@ Valores de los parámetros de funcionamiento de un sistema, instalación, equipo
 
 3.133 Volumen de accesibilidad al contacto
 Volumen alrededor del emplazamiento donde las personas se encuentran y circulan habitualmente, limitado por la superficie que una persona puede alcanzar con su mano.
+
+<!-- página 16 -->

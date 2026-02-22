@@ -1,7 +1,7 @@
 ---
 seccion: 05
 titulo: "Planos"
-pagina: 1
+paginas: 1
 imagen: "05-planos.png"
 fecha: 2026-02-19 21:03:25
 ---
