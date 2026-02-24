@@ -321,7 +321,27 @@ En el caso de circuitos derivados de instalaciones complementarias referirse a l
 
 Tabla 2 — Resumen de tipos de circuitos
 
-![tabla-2](./table-2.jpg)
+
+| Circuito                                              | Descripción                                                          | Sección mínima del conductor                                                                                                 | Sección mínima del conductor | Elemento de protección máxima |
+| ----------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------- |
+|                                                       |                                                                      | mm2                                                                                                                          | AWG                          |                               |
+| Uso general                                           | Iluminación de uso general                                           | 1.5                                                                                                                          | 16                           | 16 A                          |
+| Uso general                                           | Tomacorriente de uso general                                         | 4                                                                                                                            | 12                           | 20 A                          |
+| Uso especial                                          | Iluminación de uso especial                                          | 2.5                                                                                                                          | 14                           | 32 A                          |
+| Uso especial                                          | Tomacorriente de uso especial                                        | 4                                                                                                                            | 12                           | 32 A                          |
+| Uso específico                                        | Alimentación carga única (Fuerza)                                    | Ver apartado 7.6.3.1 / Responsabilidad del Proyectista                                                                       |                              |                               |
+| Uso específico                                        | Motores eléctricos de potencia mayor a 2 HP                          | Ver capítulo 11 NB 777-3                                                                                                     |                              |                               |
+| Uso específico                                        | Circuito de muy baja tensión sin puesta a tierra                     | Responsabilidad el proyectista                                                                                               |                              |                               |
+| Uso específico                                        | Alimentación tensión especificada                                    | Responsabilidad el proyectista                                                                                               |                              |                               |
+| Uso específico                                        | Otros circuitos específicos                                          | Responsabilidad el proyectista                                                                                               |                              |                               |
+| Respaldo                                              | Complemento de seguridad con tensión máxima de 24 V                  | Ver Capítulo 6 NB 777-3                                                                                                      |                              |                               |
+| Suministro de energía e instalaciones complementarios | Grupos generadores                                                   | Ver Capítulo 11 NB 777-3                                                                                                     |                              |                               |
+| Suministro de energía e instalaciones complementarios | Alimentación de emergencia                                           | Ver apartado 4.7 del Capítulo 4 NB 777-3                                                                                     |                              |                               |
+| Suministro de energía e instalaciones complementarios | Sistemas de energía fotovoltaico (FV)                                | Ver NB/IEC 6034-7-712                                                                                                        |                              |                               |
+| Suministro de energía e instalaciones complementarios | Sistemas fotovoltaicos conectados a la red eléctrica de distribución | Ver NB 81014 y requisitos de la empresa de distribución local                                                                |                              |                               |
+| Suministro de energía e instalaciones complementarios | Otras fuentes de energía renovables                                  | Conexión fuera de la red, responsabilidad del proyectista. Conexión a la red, requisitos de la empresa de distribución local |                              |                               |
+| Suministro de energía e instalaciones complementarios | Instalaciones complementarias                                        | Ver Capítulo 11 NB 777-3                                                                                                     |                              |                               |
+
 
 6.6 Factor de potencia
 
@@ -334,11 +354,3 @@ a) Talleres de: mecánica, carpintería, soldadura, mantenimiento mecánico o au
 b) Edificios, galerías y complejos comerciales
 
 c) Instalaciones industriales pequeñas, medianas y otras
-
-
-7 DETERMINACIÓN DE DEMANDAS MÁXIMAS
-7.1 Vivienda unifamiliar
-
-La demanda máxima de una vivienda unifamiliar debe calcularse con la aplicación de uno de los siguientes criterios expuestos a continuación.
-
-En función a la potencia total instalada en los circuitos de iluminación y tomacorrientes, se deben aplicar los factores de la Tabla 3, para determinar la demanda de los circuitos indicados.
