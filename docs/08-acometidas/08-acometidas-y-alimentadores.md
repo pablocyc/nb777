@@ -542,19 +542,3 @@ Si la corriente del conductor neutro es superior al 135 % al de la fase y la sel
 8.7 Fijación de los conductores
 
 Los conductores se deben adosar o fijar de manera segura, con elementos aislados que eviten dañar el aislamiento del conductor, en las paredes o estructuras; quedando prohibido fijarlos a escaleras de incendio, instalaciones de plomería o canales de drenaje u otras, que podrían eventualmente quedar energizadas.
-
-9 TABLEROS PARA INSTALACIONES ELECTRICAS
-
-Los tableros a utilizarse en las instalaciones eléctricas de interiores cumplirán con lo establecido en las normas NB 148001-2; NB 148002 y NB 148003.
-
-
-9.1 Clasificación
-
-Los tableros se clasifican de acuerdo con las disposiciones descritas en el capítulo 4 de la norma NB 148001-2 y los capítulos 4 y 5 de la norma NB 148002
-
-
-— tablero de distribución general (TDG)
-- tablero de distribución (TD)
-- tablero para comando (TC) o para fuerza motriz (TFM)
-- tablero de paso (TP)
-- tablero auxiliar (TA)
